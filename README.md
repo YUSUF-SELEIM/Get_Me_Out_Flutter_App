@@ -8,13 +8,11 @@ Get Me Out is a Flutter mobile application designed to help users gracefully exi
 
 ## Screenshots
 
-![SC](sc.jpeg){:height="300px" width="400px"}
+<img src="sc.jpeg" width="250" height="500">
 
 ## Installation
 
 Download [Get Me Out](Get%20Me%20Out.apk) APK
-
-
 
 ## Usage
 
@@ -41,4 +39,5 @@ Get Me Out was created by [@YUSUF-SELEIM](https://github.com/YUSUF-SELEIM) and i
 
 Many Thanks to:
 <a href="https://www.freepik.com/icon/user_8742495">Icon by Pop Vectors</a>
+
 <a href="https://www.flaticon.com/free-icons/sos" title="sos icons">Sos icons created by Freepik - Flaticon</a>
