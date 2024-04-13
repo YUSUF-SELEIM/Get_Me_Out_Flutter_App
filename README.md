@@ -1,21 +1,44 @@
-# flutter_application_1
+# Get Me Out
 
-A new Flutter project.
+Get Me Out is a Flutter mobile application designed to help users gracefully exit awkward or uncomfortable situations by triggering a fake call with a simple action that will allow you to get an excuse to leave that uncomfortable situation.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Quick Exit:** Press the volume up button three times to trigger a fake call, providing users with a convenient excuse to leave awkward or unwanted conversations or situations.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![SC](sc.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+Download [Get Me Out](Get%20Me%20Out.apk) APK
 
 
+
+## Usage
+
+Once installed, follow these steps to use Get Me Out:
+
+1. Launch the app on your device.
+2. Press the volume up button three times to trigger a fake call.
+3. Use the fake call as an excuse to gracefully exit awkward or uncomfortable situations.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to Get Me Out, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/my-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add my feature'`).
+5. Push to the branch (`git push origin feature/my-feature`).
+6. Create a new Pull Request.
+
+## Credits
+
+Get Me Out was created by [@YUSUF-SELEIM](https://github.com/YUSUF-SELEIM) and is maintained by [@YUSUF-SELEIM](https://github.com/YUSUF-SELEIM) and Contributors.
+
+Many Thanks to:
 <a href="https://www.freepik.com/icon/user_8742495">Icon by Pop Vectors</a>
-
 <a href="https://www.flaticon.com/free-icons/sos" title="sos icons">Sos icons created by Freepik - Flaticon</a>
