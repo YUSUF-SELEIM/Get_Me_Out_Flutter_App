@@ -8,7 +8,7 @@ Get Me Out is a Flutter mobile application designed to help users gracefully exi
 
 ## Screenshots
 
-![SC](sc.jpeg)
+![SC](sc.jpeg){:height="300px" width="400px"}
 
 ## Installation
 
