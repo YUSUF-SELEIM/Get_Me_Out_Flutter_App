@@ -38,6 +38,7 @@ Contributions are welcome! If you'd like to contribute to Get Me Out, please fol
 Get Me Out was created by [@YUSUF-SELEIM](https://github.com/YUSUF-SELEIM) and is maintained by [@YUSUF-SELEIM](https://github.com/YUSUF-SELEIM) and Contributors.
 
 Many Thanks to:
+
 <a href="https://www.freepik.com/icon/user_8742495">Icon by Pop Vectors</a>
 
 <a href="https://www.flaticon.com/free-icons/sos" title="sos icons">Sos icons created by Freepik - Flaticon</a>
